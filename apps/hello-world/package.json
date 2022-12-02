@@ -1,0 +1,17 @@
+{
+  "name": "example-hello-world",
+  "private": true,
+  "scripts": {
+    "dev": "nitro dev",
+    "build": "nitro build"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "8.5.1",
+    "@types/sharp": "^0.31.0",
+    "nitropack": "latest"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "sharp": "^0.31.2"
+  }
+}
